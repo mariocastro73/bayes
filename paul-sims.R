@@ -1,4 +1,5 @@
 n_draw <- 10000
+set.seed(1234)
 
 # Defining and drawing from the prior distribution
 prior_rate <- runif(n_draw, 0, 1)
