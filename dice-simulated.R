@@ -1,4 +1,5 @@
 n_draw <- 10000
+set.seed(1234)
 
 # Defining and drawing from the prior distribution
 dice <- c(4,6,8,10,12,20,100)
